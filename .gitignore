@@ -1,5 +1,5 @@
 # Build
-/dist
+# /dist - comment for now, not sure i need it
 /lib
 /lib-types
 /server
